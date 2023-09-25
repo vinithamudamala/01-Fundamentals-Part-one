@@ -1,11 +1,5 @@
-/*let firstName = "vinitha";
-console.log(firstName);
-console.log(firstName);
-console.log(firstName);
-console.log("mudamala");
-console.log("vinith");
-*/
-array = [];
-array.push(0, 1, 2);
+array = [1, 3, 5, 7, 9];
+alert("show array with odd numbers that are smaller than 10");
+array.push(2, 4, 6, 8);
+array.splice(19, 20);
 console.log(array);
-console.log(array.join(""));
